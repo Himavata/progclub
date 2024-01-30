@@ -11,7 +11,10 @@ This might be helpful to the audience who are trying to gain information about t
 <br>
 ![Screenshot 2024-01-30 221447](https://github.com/Himavata/progclub/assets/158083181/2ec76dcf-40c1-48f8-9aa9-0d817673b436)
 <br>
+<br>
 ![Screenshot 2024-01-30 221512](https://github.com/Himavata/progclub/assets/158083181/5e1c9e41-20b4-42d5-90b2-cfb1f5df941b)
 <br>
+<br>
 ![Screenshot 2024-01-30 221526](https://github.com/Himavata/progclub/assets/158083181/40756b9d-ead4-463c-bc31-dde708df7687)
+<br>
 <br>
