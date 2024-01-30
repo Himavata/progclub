@@ -18,3 +18,8 @@ This might be helpful to the audience who are trying to gain information about t
 ![Screenshot 2024-01-30 221526](https://github.com/Himavata/progclub/assets/158083181/40756b9d-ead4-463c-bc31-dde708df7687)
 <br>
 <br>
+Steps to use the following website:
+1.Enter the amount which is to be converted.
+2.Select the denomination favoured by the user.
+3.Click on the submit button.
+4.The user will be provided with a list of currency converted for every country.
