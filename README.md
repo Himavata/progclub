@@ -19,7 +19,11 @@ This might be helpful to the audience who are trying to gain information about t
 <br>
 <br>
 Steps to use the following website:
+<br>
 1.Enter the amount which is to be converted.
+<br>
 2.Select the denomination favoured by the user.
+<br>
 3.Click on the submit button.
+<br>
 4.The user will be provided with a list of currency converted for every country.
